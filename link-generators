@@ -2,4 +2,4 @@
 
 # Links generators into ~zod/%base
 echo "Linking gen/"
-cp --symbolic-link --update ~/Source/hoonschool/gen/* ~/zod/base
+cp --symbolic-link --update ~/Source/hoonschool/gen/* ~/zod/base/gen/
