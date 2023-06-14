@@ -1,3 +1,8 @@
+:: This generator takes a vase
+:: as created using a zapgar(!>) rune
+:: and returns the digits in string
+:: format accounting for the type of
+:: the value provided.
 :: TODO: Enforce actual constraints on the types
 :: accepted here
 !:
